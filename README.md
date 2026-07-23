@@ -20,6 +20,7 @@ An automated Continuous Integration & Continuous Deployment (CI/CD) pipeline bui
                                                            ├── 1. Checkout Code
                                                            ├── 2. Syntax & Integration Test
                                                            └── 3. Virtual Build & Verification
+```
 
-🎯 Purpose & Learning Outcomes
+## 🎯 Purpose & Learning Outcomes
 This repository demonstrates hands-on competency in DevOps methodology, Software Development Lifecycle (SDLC) automation, and Cloud Integration Workflows tailored for modern Computer Science practices.
